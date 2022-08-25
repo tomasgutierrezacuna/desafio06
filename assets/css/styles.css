@@ -1,0 +1,33 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#header{
+    height: 80px;
+}
+
+#logoheader{
+    height: 75px;
+}
+
+#botonhamb {
+    height: 40px;
+}
+
+#navbar{
+    height: 20px;
+}
+
+#mainhome{
+    height: 100vh
+}
+
+
+#footer{
+    height: 50px;
+}
+
+#logofooter{
+    height: 45px;
+}
